@@ -26,11 +26,11 @@
   background: #4cbaf4;
   height: 70px;
   width: 100%;
-  border-width: 0;
+  border-width: 1;
 }
 .mybusy {
   background:red;
   height: 70px;
   width: 100%;
-  border-width: 0;
+  border-width: 1;
 }
